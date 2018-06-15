@@ -1,4 +1,4 @@
-Creation of the features:
+Creation of the 8 features:
 
 (1) Cosine of TF-IDF
 (2) Cosine of TF-IDF bigrams
